@@ -50,4 +50,4 @@ class Scraper:
 if __name__ == '__main__':
     s = Scraper()
     s.create_card_db()
-    s.get_images()
+    #s.get_images()
